@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\nsy\pro04\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+89180294.index
+2494420623.index
+1390241447.index
+3934938141.index
+153153998.index
+1326690220.index
